@@ -44,7 +44,7 @@ Download the .RAR file, extract its contents, and place the plugin folder into y
 
 - It is recommended to set the polling period to 1255 ms to optimize performance and reduce unnecessary updates.
 
-![the polling period to 1255 ms](ttps://github.com/user-attachments/assets/89968638-a981-4353-a74f-2a3798038ac8)
+![the polling period to 1255 ms](https://github.com/user-attachments/assets/89968638-a981-4353-a74f-2a3798038ac8)
 
 
 
